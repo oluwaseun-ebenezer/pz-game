@@ -13,7 +13,7 @@ export function StartScreen({ onStart }: StartScreenProps) {
         Word Puzzle
       </h1>
 
-      <p className="text-lg text-muted-foreground text-pretty max-w-md mx-auto">
+      <p className="text-lg text-pretty max-w-md mx-auto">
         Guess the hidden word letter by letter. You have 6 attempts to find it!
       </p>
 
